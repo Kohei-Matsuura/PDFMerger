@@ -19,6 +19,7 @@ pip install PyPDF2
 # 奇数ページのpdfファイルに空白ページを加えて偶数ページにする
 $ ls *.pdf > list.txt
 $ python even.py list.txt
+
 # マージする
 $ ls even_*.pdf > even_list.txt
 $ python merge_pdf.py even_list.txt
