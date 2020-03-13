@@ -23,7 +23,7 @@ $ python even.py list.txt
 $ ls even_*.pdf > even_list.txt
 $ python merge_pdf.py even_list.txt
 ```
-Now you can get 'merged.pdf
+Now you can get _merged.pdf_
 
 
 ## コメント
