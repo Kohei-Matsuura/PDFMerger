@@ -26,6 +26,13 @@ $ python merge_pdf.py even_list.txt
 ```
 Now you can get _merged.pdf_
 
+あるいは
+
+```
+$ chmod 700 run.sh
+./run.sh
+```
+
 
 ## コメント
 多分車輪の再発明
